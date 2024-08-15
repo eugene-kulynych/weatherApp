@@ -1,4 +1,5 @@
 #import "AppDelegate.h"
+#import <RNPermissions/RNPermissions.h>
 
 #import <React/RCTBundleURLProvider.h>
 
